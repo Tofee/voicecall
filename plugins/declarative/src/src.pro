@@ -5,7 +5,7 @@ QT = core dbus qml
 TARGET = voicecall
 uri = org.nemomobile.voicecall
 
-#DEFINES += WANT_TRACE
+DEFINES += WANT_TRACE
 
 PKGCONFIG += ngf-qt5
 
